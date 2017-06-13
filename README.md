@@ -24,7 +24,7 @@ Luka Čehovin Zajc, e-mail: luka.cehovin@fri.uni-lj.si </br>
 * Clone git repository: </br>
     $ git clone https://github.com/alanlukezic/csr-dcf.git
 * Compile mex files running compile.m command </br>
-	Set <i>opencv_include</i> and opencv_libpath to the correct OpenCV paths
+	Set <i>opencv_include</i> and <i>opencv_libpath</i> to the correct OpenCV paths
 * Use demo_csr.m script for the visualization of the tracker </br>
 	Set <i>tracker_path</i> variable to the directory where your source code is and <i>base_path</i> to the directory where you have stored the VOT sequences.
 * Use csr_wrapper.m script for VOT integration
@@ -48,4 +48,4 @@ Tracking results on the VOT-2016 benchmark:
 [VOT2016/2015 will be referenced here]
 
 ## Video
-[Video will be linked here…]
+Click <a href="https://www.youtube.com/watch?v=Yl-grwGch_M">here</a> to see demo video on YouTube.
