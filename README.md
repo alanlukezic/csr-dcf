@@ -4,7 +4,8 @@ Matlab implementation of the DCF-CSR tracker from the paper published in the pro
 
 ## Publication
 Alan Lukežič, Tomáš Vojíř, Luka Čehovin, Jiří Matas and Matej Kristan. ''Discriminative Correlation Filter with Channel and Spatial Reliability.'' In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.</br>
-[Paper](https://arxiv.org/abs/1611.08461)
+[Paper](https://arxiv.org/abs/1611.08461) </br>
+Raw results: [VOT15](data.vicos.si/alanl/CSR-DCF-VOT15.zip) [VOT16](data.vicos.si/alanl/CSR-DCF-VOT16.zip) [OTB100](data.vicos.si/alanl/CSR-DCF-results-OTB100.zip)
 
 <b>BibTex citation:</b><br>
 @InProceedings{Lukezic_CVPR_2017,<br>
@@ -45,7 +46,7 @@ Tracking results on the VOT-2016 benchmark:
 <a href="url"><img src="https://user-images.githubusercontent.com/12802864/26885151-1a6049c4-4ba2-11e7-9c30-0c3bf0f87943.PNG" text-align="right" width="400"></a>
 </div>
 
-[VOT2016/2015 will be referenced here]
+Raw VOT results: [VOT15](data.vicos.si/alanl/CSR-DCF-VOT15.zip) [VOT16](data.vicos.si/alanl/CSR-DCF-VOT16.zip)
 
 ## Video
 Click <a href="https://www.youtube.com/watch?v=Yl-grwGch_M">here</a> to see demo video on YouTube.
