@@ -1,16 +1,30 @@
 # Discriminative Correlation Filter with Channel and Spatial Reliability
 
-Matlab implementation of the DCF-CSR tracker from the paper published in the proceedings of Conference on Computer Vision and Pattern Recognition (CVPR) 2017.
+Matlab implementation of the DCF-CSR tracker from the paper published in the proceedings of Conference on Computer Vision and Pattern Recognition (CVPR) 2017 and later in International Journal of Computer Vision (IJCV).
 
-## Publication
-Alan Lukežič, Tomáš Vojíř, Luka Čehovin, Jiří Matas and Matej Kristan. ''Discriminative Correlation Filter with Channel and Spatial Reliability.'' In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.</br>
+## Publications
+Journal publication: </br>
+Alan Lukežič, Tomáš Vojíř, Luka Čehovin, Jiří Matas and Matej Kristan. ''Discriminative Correlation Filter Tracker with Channel and Spatial Reliability.'' International Journal of Computer Vision (IJCV), 2018.</br>
 [Paper](https://arxiv.org/abs/1611.08461) </br>
+
+<b>BibTex citation:</b></br>
+@Article{Lukezic_IJCV2018,</br>
+author={Luke{\v{z}}i{\v{c}}, Alan and Voj{\'i}{\v{r}}, Tom{\'a}{\v{s}} and {\v{C}}ehovin Zajc, Luka and Matas, Ji{\v{r}}{\'i} and Kristan, Matej},</br>
+title={Discriminative Correlation Filter Tracker with Channel and Spatial Reliability},</br>
+journal={International Journal of Computer Vision},</br>
+year={2018},</br>
+}
+
 Raw results: [VOT15](http://data.vicos.si/alanl/CSR-DCF-VOT15.zip) [VOT16](http://data.vicos.si/alanl/CSR-DCF-VOT16.zip) [OTB100](http://data.vicos.si/alanl/CSR-DCF-results-OTB100.zip)
 
-<b>BibTex citation:</b><br>
+Conference publication: </br>
+Alan Lukežič, Tomáš Vojíř, Luka Čehovin, Jiří Matas and Matej Kristan. ''Discriminative Correlation Filter with Channel and Spatial Reliability.'' In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.</br>
+[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lukezic_Discriminative_Correlation_Filter_CVPR_2017_paper.pdf) </br>
+
+<b>BibTex citation:</b></br>
 @InProceedings{Lukezic_CVPR_2017,<br>
 Title = {Discriminative Correlation Filter with Channel and Spatial Reliability},<br>
-Author = {Lukežič, Alan and Vojíř, Tomáš and Čehovin Zajc, Luka and Matas, Jiří and Kristan, Matej},<br>
+Author = {Luke{\v{z}}i{\v{c}}, Alan and Voj{\'i}{\v{r}}, Tom{\'a}{\v{s}} and {\v{C}}ehovin Zajc, Luka and Matas, Ji{\v{r}}{\'i} and Kristan, Matej},<br>
 Booktitle = {CVPR},<br>
 Year = {2017}<br>
 }
