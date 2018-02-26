@@ -43,7 +43,11 @@ Luka Čehovin Zajc, e-mail: luka.cehovin@fri.uni-lj.si </br>
 * Use demo_csr.m script for the visualization of the tracker </br>
 	Set <i>tracker_path</i> variable to the directory where your source code is and <i>base_path</i> to the directory where you have stored the VOT sequences.
 * Use csr_wrapper.m script for VOT integration
-	
+
+## C++ Implementation
+
+The C++ version of the CSR-DCF tracker is now available in OpenCV contrib repository (tracking module, CSRT tracker)
+
 ## Project summary
 Short-term tracking is an open and challenging problem for which discriminative correlation filters (DCF) have shown excellent performance. We introduce the channel and spatial reliability concepts to DCF tracking and provide a novel learning algorithm for its efficient and seamless integration in the filter update and the tracking process. The spatial reliability map adjusts the filter support to the part of the object suitable for tracking. This both allows to enlarge the search region and improves tracking of non-rectangular objects. Reliability scores reflect channel-wise quality of the learned filters and are used as feature weighting coefficients in localization. Experimentally, with only two simple standard features, HoGs and Colornames, the novel CSR-DCF method -- DCF with Channel and Spatial Reliability -- achieves state-of-the-art results on VOT 2016, VOT 2015 and OTB100. The CSR-DCF runs in real-time on a CPU.
 
